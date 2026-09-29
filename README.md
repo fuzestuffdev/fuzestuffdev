@@ -1,4 +1,3 @@
-<h3 data-importer="text" align="center">About Me</h3>
 
 ###
 
